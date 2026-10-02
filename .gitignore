@@ -1,0 +1,37 @@
+# Archive of experiments and third-party addons
+_archive/
+
+# Packaged addon — published via GitHub Releases
+UAVoiceTTS.zip
+*.zip
+
+# Generated addon files
+code/addon/UAVoiceTTS/Index.lua
+code/addon/UAVoiceTTS/Sounds/
+
+# NPC voice references (Blizzard audio) and local data
+code/refs_tight/
+code/refs_uk/
+code/data/
+
+# Pipeline working files
+code/prod/out/
+code/prod/out_probe/
+code/prod/out_ab*/
+code/prod/jobs.jsonl
+code/prod/jobs_tts.jsonl
+code/prod/trial.log
+code/prod/reports_in.txt
+code/prod/reports_done.txt
+code/prod/redo_queue.txt*
+code/prod/discord/
+
+# Weights / training data
+*.safetensors
+*.wav
+*.ogg
+
+# System
+__pycache__/
+*.pyc
+.DS_Store
