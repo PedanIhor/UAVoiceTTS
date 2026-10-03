@@ -2,7 +2,7 @@
 ## Title: |cff1177eeUA|r|cffffdd00VoiceTTS|r
 ## Notes: Українська озвучка квестів голосами NPC (озвучено переклад ClassicUA).
 ## Author: Ihor
-## Version: 0.4.0
+## Version: 0.4.1
 ## Category: Quests
 ## OptionalDeps: ClassicUA
 ## SavedVariables: UAVoiceTTSDB
