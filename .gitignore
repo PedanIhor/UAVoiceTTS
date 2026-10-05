@@ -18,6 +18,7 @@ code/data/
 code/prod/out/
 code/prod/out_probe/
 code/prod/out_ab*/
+code/prod/out_cmp/
 code/prod/jobs.jsonl
 code/prod/jobs_tts.jsonl
 code/prod/trial.log
